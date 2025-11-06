@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+*.json
+*.pkl
+*.sav
+*.h5
+
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
