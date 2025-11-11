@@ -1,10 +1,8 @@
-# Python cache
+# Python cache / virtual env
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
 .venv/
 env/
 venv/
@@ -21,7 +19,7 @@ venv/
 *.sav
 *.h5
 
-# IDE/OS files
+# OS/IDE files
 .vscode/
 .idea/
 .DS_Store
